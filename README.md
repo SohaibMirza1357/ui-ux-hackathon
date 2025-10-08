@@ -23,7 +23,7 @@ Shopco bridges the gap between design and development by converting Figma design
 
 ## Demo
 
-Check out the live demo: [Shopco Demo]((https://ui-ux-hackathon-silk-nu.vercel.app/))
+Check out the live demo: [https://ui-ux-hackathon-silk-nu.vercel.app/]
 
 
 ## Features
