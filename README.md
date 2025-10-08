@@ -1,7 +1,7 @@
 
 # Shopco
 
-Shopco is an open-source project that converts a Figma design of an e-commerce website into a fully responsive front-end application. It utilizes **Next.js 14 App Router**, **TypeScript**, **Tailwind CSS**, **Redux**, **Framer Motion**, and **ShadCN UI** to deliver a modern, scalable, and optimized solution based on industry standards.
+Shopco is an open-source project that converts a Figma design of an e-commerce website into a fully responsive front-end application. It utilizes **Next.js 14 App Router**, **TypeScript**, **Tailwind CSS**, **Redux**, and **ShadCN UI** to deliver a modern, scalable, and optimized solution based on industry standards.
 
 ## Table of Contents
 
@@ -44,7 +44,6 @@ Check out the live demo: [Shopco Demo](https://next-ecommerce-shopco.vercel.app/
 - **TypeScript** - A superset of JavaScript for strong typing and code consistency.
 - **Tailwind CSS** - A utility-first CSS framework for fast, responsive design.
 - **Redux** - A state management library used for the shopping cart and global app state.
-- **Framer Motion** - A library for animations and interactions in React.
 - **ShadCN UI** - A collection of beautiful, accessible, and customizable UI components.
 
 
