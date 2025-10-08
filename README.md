@@ -23,7 +23,7 @@ Shopco bridges the gap between design and development by converting Figma design
 
 ## Demo
 
-Check out the live demo: [Shopco Demo](https://next-ecommerce-shopco.vercel.app/)
+Check out the live demo: [Shopco Demo]((https://ui-ux-hackathon-silk-nu.vercel.app/))
 
 
 ## Features
@@ -32,7 +32,6 @@ Check out the live demo: [Shopco Demo](https://next-ecommerce-shopco.vercel.app/
 - **TypeScript**: Strongly typed code for better error detection and maintainability.
 - **Tailwind CSS**: Utility-first CSS framework for rapid UI development.
 - **Redux**: State management for managing the shopping cart and other global states.
-- **Framer Motion**: Smooth animations and transitions for an enhanced user experience.
 - **ShadCN UI**: Beautifully styled, accessible, and customizable UI components.
 - **Fully Responsive**: Mobile-first design ensuring the layout adapts across devices.
 - **Performance Optimized**: Best practices followed for fast loading and interaction.
